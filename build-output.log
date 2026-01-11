@@ -1,0 +1,35 @@
+
+> start_up@0.1.0 build C:\Users\NEW USER\Desktop\Working\start_up
+> next build
+
+[baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+   ▲ Next.js 16.0.1 (Turbopack)
+
+   Creating an optimized production build ...
+[baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+ ✓ Compiled successfully in 7.8s
+   Running TypeScript ...
+   Collecting page data ...
+[baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+[baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+   Generating static pages (0/5) ...
+[baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+ ⨯ useSearchParams() should be wrapped in a suspense boundary at page "/reset-password". Read more: https://nextjs.org/docs/messages/missing-suspense-with-csr-bailout
+    at S (C:\Users\NEW USER\Desktop\Working\start_up\.next\server\chunks\ssr\_3a5ab57b._.js:2:2111)
+    at p (C:\Users\NEW USER\Desktop\Working\start_up\.next\server\chunks\ssr\_3a5ab57b._.js:4:4843)
+    at m (C:\Users\NEW USER\Desktop\Working\start_up\.next\server\chunks\ssr\_3a5ab57b._.js:4:86810)
+    at ir (C:\Users\NEW USER\Desktop\Working\start_up\node_modules\.pnpm\next@16.0.1_@babel+core@7.2_e2df17bc924c9c875ca07161f3952b17\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.prod.js:2:84433)
+    at ia (C:\Users\NEW USER\Desktop\Working\start_up\node_modules\.pnpm\next@16.0.1_@babel+core@7.2_e2df17bc924c9c875ca07161f3952b17\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.prod.js:2:86252)
+    at il (C:\Users\NEW USER\Desktop\Working\start_up\node_modules\.pnpm\next@16.0.1_@babel+core@7.2_e2df17bc924c9c875ca07161f3952b17\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.prod.js:2:107981)
+    at is (C:\Users\NEW USER\Desktop\Working\start_up\node_modules\.pnpm\next@16.0.1_@babel+core@7.2_e2df17bc924c9c875ca07161f3952b17\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.prod.js:2:105399)
+    at ii (C:\Users\NEW USER\Desktop\Working\start_up\node_modules\.pnpm\next@16.0.1_@babel+core@7.2_e2df17bc924c9c875ca07161f3952b17\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.prod.js:2:84785)
+    at ia (C:\Users\NEW USER\Desktop\Working\start_up\node_modules\.pnpm\next@16.0.1_@babel+core@7.2_e2df17bc924c9c875ca07161f3952b17\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.prod.js:2:86301)
+    at ia (C:\Users\NEW USER\Desktop\Working\start_up\node_modules\.pnpm\next@16.0.1_@babel+core@7.2_e2df17bc924c9c875ca07161f3952b17\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.prod.js:2:104739)
+Error occurred prerendering page "/reset-password". Read more: https://nextjs.org/docs/messages/prerender-error
+Export encountered an error on /reset-password/page: /reset-password, exiting the build.
+ ⨯ Next.js build worker exited with code: 1 and signal: null
+ ELIFECYCLE  Command failed with exit code 1.
